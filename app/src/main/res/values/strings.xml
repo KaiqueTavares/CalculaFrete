@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name" translatable="false">CalculaFrete</string>
+    <string name="header">Calculate the Ship</string>
+    <string name="radioText">Set our box:</string>
+    <string name="Caixa">Box</string>
+    <string name="Carta">Letter</string>
+    <string name="Peso">Set the Weight</string>
+    <string name="Estado">Set the State</string>
+    <string name="Enviar">Send</string>
+    <string name="ResultadoH">Result</string>
+    <string name="Preco">Price</string>
+
+</resources>

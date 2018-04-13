@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CalculaFrete</string>
+    <string name="header">Calcule seu Frete</string>
+    <string name="radioText">Coloque o tipo de Encomenda</string>
+    <string name="Caixa">Caixa</string>
+    <string name="Carta">Carta</string>
+    <string name="Peso">Coloque o Peso</string>
+    <string name="Estado">Coloque o Estado</string>
+    <string name="Enviar">Enviar</string>
+    <string name="ResultadoH">Resultado</string>
+    <string name="Preco">Preço</string>
+</resources>
