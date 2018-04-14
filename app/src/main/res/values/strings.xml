@@ -9,5 +9,6 @@
     <string name="Enviar">Send</string>
     <string name="ResultadoH">Result</string>
     <string name="Preco">Price</string>
+    <string name="raio">Range KM</string>
 
 </resources>
